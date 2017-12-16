@@ -1,0 +1,227 @@
+/** Nice font 'Open-Sans' I got from Google. **/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+
+/** Colors **/
+
+/*** GENERAL STYLE ***/
+
+
+div{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    
+}
+
+
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 45px;
+}
+
+      
+
+/***IDs***/
+#experience{
+    font-size: 27px;
+}
+
+#education{
+    font-size: 26px;
+}
+
+#characteristics{
+    font-size: 24px;
+}
+
+
+#yappy2{
+    font-size: 34px;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+}
+
+#yappy{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+
+    
+}
+
+
+#yum{
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 13px;
+    color: red;
+}
+
+#kewl{
+    margin-left: 2px;
+    margin-right: 2px;
+    color: red;
+}
+
+#dgmama{
+    margin-top: 6px;
+    color: red;
+     font-family: 'Cabin Sketch', cursive;
+    font-size: 21px;
+
+}
+
+#aye{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#dgmama2{
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+    
+}
+
+#kewl2{
+    color: white;
+    font-family: 'Poiret One', cursive;
+   font-weight: bold;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 9px;
+    margin-right: 9px;
+
+}
+
+#yum2{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Poiret One', cursive;
+    margin-left: 8px;
+    margin-right: 8px;
+
+}
+
+#redheart{
+    margin-left: 20%;
+}
+
+#redheart2{
+    margin-left: 40%;
+}
+
+#loveme{
+    margin-right: 20%;
+    margin-top: 4%;
+    padding-left: 42%;
+}
+
+#projects{
+    color: red;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+#contacts{
+    font-size: 20px;
+}
+   
+
+
+
+/**Class**/
+
+.email{
+    color: red;
+    list-style-type: none;
+}
+
+.rose{
+    margin-left: 30%;
+    margin-top: -10%;}
+
+.rose2{
+    margin-left: 13%;
+    margin-top: -10%;
+}
+
+
+.BOX1 {
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+
+}
+
+.minibox1{
+    width:25%;
+    float:left;
+    height:
+    
+}
+
+.minibox2 {
+    width:25%;
+    float:right;
+}
+.minibox3{
+    width:25%;
+    float:right;
+}
+
+.border{
+    border: 5px solid white;
+    
+}
+
+
+.music{
+    display: none;
+}
+
+.web{
+    font-family: 'Amaranth', sans-serif;
+    color: red;
+}
+
+ul{
+    list-style-type: none;  
+    margin-right: 10%;
+    color: red;
+}
+
+
+
+.nav{
+    list-style: none;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    margin-bottom: 1px;
+    margin-top: 3px;
+    margin-left: 10%;
+}
+
+.nav li{
+    display: inline-block;
+    padding: 25px;
+    margin-top: 1px;   
+}
+
+.nav li a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: 'Tangerine', cursive;
+
+
+}
+
+.nav li a:hover{
+    color: red;
+}
